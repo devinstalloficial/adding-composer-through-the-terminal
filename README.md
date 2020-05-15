@@ -29,7 +29,7 @@ Package Type...
 License []: MIT
 ```
 
-you can skip this step just below, pressing enter
+**you can skip this step just below, pressing enter
 ```PROMPT
 Would you like to define your dependencies (require)...
 ```
@@ -49,4 +49,12 @@ compser update
 
 ```PROMPT
 compser install
+```
+
+A
+
+## packagist
+
+```PROMPT
+composer riquired package_name
 ```
