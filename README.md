@@ -59,6 +59,7 @@ compser install
 composer riquired package_name
 ```
 
+## The composer.json file will look like this
 ```JSON
 {
     "name": "luizpaulogroup/exemplo",
