@@ -44,11 +44,11 @@ Do you confirm generation [yes]? yes
 ```
 
 ```PROMPT
-compser update
+composer update
 ```
 
 ```PROMPT
-compser install
+composer install
 ```
 
 ## Command to add package
