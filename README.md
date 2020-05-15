@@ -20,7 +20,7 @@ Author: luizpaulogroup <your_email@gmail.com>
 Minimum Stability []: stable
 ```
 
-you can skip this step just below, pressing enter
+## you can skip this step just below, pressing enter
 ```PROMPT
 Package Type...
 ```
@@ -29,12 +29,12 @@ Package Type...
 License []: MIT
 ```
 
-**you can skip this step just below, pressing enter
+## you can skip this step just below, pressing enter
 ```PROMPT
 Would you like to define your dependencies (require)...
 ```
 
-you can skip this step just below, pressing enter
+## you can skip this step just below, pressing enter
 ```PROMPT
 Would you like to define your dependencies (require-dev)...
 ```
@@ -51,7 +51,7 @@ compser update
 compser install
 ```
 
-A
+### Command to add package
 
 ## packagist
 
