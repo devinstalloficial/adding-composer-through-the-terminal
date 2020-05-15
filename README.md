@@ -5,11 +5,11 @@ composer init
 ```
 
 ```PROMPT
-Package name (<vendor>/<name>): luizpaulogroup/exemplo
+Package name (<vendor>/<name>): luizpaulogroup/example
 ```
 
 ```PROMPT
-Description []: Adicionando composer via terminal
+Description []: Adding composer through the terminal
 ```
 
 ```PROMPT
@@ -62,8 +62,8 @@ composer riquired package_name
 ## The composer.json file will look like this
 ```JSON
 {
-    "name": "luizpaulogroup/exemplo",
-    "description": "Adicionando composer via terminal",
+    "name": "luizpaulogroup/example",
+    "description": "Adding composer through the terminal",
     "license": "MIT",
     "authors": [
         {
