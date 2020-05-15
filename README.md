@@ -5,7 +5,7 @@ composer init
 ```
 
 ```PROMPT
-Package name (<vendor>/<name>): luizpaulogroup/composer
+Package name (<vendor>/<name>): luizpaulogroup/exemplo
 ```
 
 ```PROMPT
@@ -13,7 +13,7 @@ Description []: Adicionando composer via terminal
 ```
 
 ```PROMPT
-Author: luizpaulogroup <your_email@gmail.com>
+Author: luizpaulogroup <email@gmail.com>
 ```
 
 ```PROMPT
