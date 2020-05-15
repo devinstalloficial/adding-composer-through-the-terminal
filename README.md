@@ -55,6 +55,8 @@ compser install
 
 ### packagist
 
+## You can be accessing the website https://packagist.org/
+
 ```PROMPT
 composer riquired package_name
 ```
