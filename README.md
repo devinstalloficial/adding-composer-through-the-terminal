@@ -58,3 +58,21 @@ compser install
 ```PROMPT
 composer riquired package_name
 ```
+
+```JSON
+{
+    "name": "luizpaulogroup/exemplo",
+    "description": "Adicionando composer via terminal",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "luizpaulogroup",
+            "email": "email@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+
+    }
+}
+```
