@@ -1,1 +1,5 @@
-# adding-composer-through-the-terminal
+# Adding composer through the terminal
+
+```PROMPT
+composer init
+```
